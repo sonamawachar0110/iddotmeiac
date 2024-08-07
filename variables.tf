@@ -1,8 +1,3 @@
-variable "org_id" {
-  type        = string
-  description = "Organization ID to associate with the project being created"
-  default     = "0"
-}
 variable "region" {
   type        = string
   description = "Default region to use for the project"

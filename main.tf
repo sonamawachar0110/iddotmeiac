@@ -1,7 +1,6 @@
 # Create a project for the resources hosting the application
 module "project" {
   source = "./gcp-project"
-  org_id = var.org_id
   region = var.region
   prefix = random_id.id.hex
 }

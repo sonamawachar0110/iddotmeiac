@@ -2,7 +2,7 @@
 resource "google_project" "project" {
   name            = var.prefix
   project_id      = var.prefix
-  org_id          = var.org_id
+  org_id          = 0
   billing_account = "01FD6B-C45D51-322971"
 }
 
