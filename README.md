@@ -1,4 +1,4 @@
-Here’s a streamlined and revised version of your instructions:
+
 
 ---
 
